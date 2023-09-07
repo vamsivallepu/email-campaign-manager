@@ -1,0 +1,16 @@
+asgiref==3.7.2
+backports.zoneinfo==0.2.1
+certifi==2023.7.22
+charset-normalizer==3.2.0
+Django==4.2.5
+idna==3.4
+Naked==0.1.32
+pycryptodome==3.18.0
+python-dotenv==1.0.0
+PyYAML==6.0.1
+requests==2.31.0
+shellescape==3.8.1
+sqlparse==0.4.4
+typing-extensions==4.7.1
+tzdata==2023.3
+urllib3==2.0.4
